@@ -1,0 +1,16 @@
+h1{
+    color:rgb(6, 6, 24);
+}
+p{
+
+    color:rgb(245, 250, 248);
+    font-size: 30px;
+}
+body {
+    background-color: rgb(6, 34, 155)
+}
+img{
+    height: 400px;
+    width: 300px;
+    border: 10px solid black
+}
